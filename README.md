@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I’m Hashim Babar 👋
 
-<!--
-**hashimbabar/hashimbabar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at Toronto Metropolitan University with experience across software, systems, and data-focused projects.
 
-Here are some ideas to get you started:
+### What I work on
+- Software and front-end development (JavaScript, HTML, CSS)
+- Systems and low-level programming (C)
+- Backend and application development (Java, Python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+A selection of projects ranging from embedded systems and simulations to full applications and front-end tools.  
+See pinned repositories below ⬇️
+
+### Contact
+- LinkedIn: https://www.linkedin.com/in/hashim-babar
+- Email: hashimbabar@gmail.com
